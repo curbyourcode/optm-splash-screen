@@ -44,3 +44,6 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+/assets/sounds/intro.mp3
+/assets/sounds/Swish.mp3
+/assets/videos/finals.mp4
